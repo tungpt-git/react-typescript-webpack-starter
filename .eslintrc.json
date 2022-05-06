@@ -24,6 +24,7 @@
     "multiline-comment-style": ["error", "starred-block"],
     "prefer-const": "warn",
     "prefer-object-spread": "warn",
-    "semi": "error"
+    "semi": "error",
+    "semi-spacing": ["error", { "before": false, "after": true }]
   }
 }
